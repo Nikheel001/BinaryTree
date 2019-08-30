@@ -16,4 +16,5 @@ void main()
 		rptr = ins_op(arr[i],rptr);
 		show_tree(rptr);
 	}
+	printf("Hello");
 }
